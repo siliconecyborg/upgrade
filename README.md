@@ -2,7 +2,7 @@
 root@siliconecyborg:~$ upgrade -bb
 
    S i l i c o n e  C y b o r g
-   Firmware Upgrade Tool  v1.13
+   Firmware Upgrade Tool v1.13d
 
     36 dd 00 b0 0b 13 52 69 ff
     12 00 cc ff bb 14 1f 0b ff       
@@ -26,6 +26,7 @@ root@siliconecyborg:~$ upgrade -bb
   * ATOM:  cosmos1e4ftqg3je6nfhqm6q0mw7l2fdhwrumc8khvz2y
      ETH:  0xaEf7650B00354198c2b087B473820DeBe52a2b9c
      BTC:  bc1qtsurxv09szt3dpl25jrjgftzhu55v3htgksh53
+    DOGE:  DKQC1aZCCWotWPQsnsUUizUHSC95apvNsg
 
 [* environmentally friendly protocol]
 </pre>
