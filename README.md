@@ -1,3 +1,4 @@
+<pre>
 root@siliconecyborg:~$ upgrade -bb
 
    S i l i c o n e  C y b o r g
@@ -27,3 +28,4 @@ root@siliconecyborg:~$ upgrade -bb
      BTC:  bc1qtsurxv09szt3dpl25jrjgftzhu55v3htgksh53
 
 [* environmentally friendly protocol]
+</pre>
