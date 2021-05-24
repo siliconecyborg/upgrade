@@ -22,11 +22,8 @@ root@siliconecyborg:~$ upgrade -bb
 
  Please select a payment option: 
 
-> *  XTZ:  tz1S46NtXB4KYwBaKvSX7HkeTf4EKCpEqC77
-  * ATOM:  cosmos1e4ftqg3je6nfhqm6q0mw7l2fdhwrumc8khvz2y
-     ETH:  0xaEf7650B00354198c2b087B473820DeBe52a2b9c
-     BTC:  bc1qtsurxv09szt3dpl25jrjgftzhu55v3htgksh53
-    DOGE:  DKQC1aZCCWotWPQsnsUUizUHSC95apvNsg
-
-[* environmentally friendly protocol]
+>   XTZ:  tz1S46NtXB4KYwBaKvSX7HkeTf4EKCpEqC77
+   ATOM:  cosmos1e4ftqg3je6nfhqm6q0mw7l2fdhwrumc8khvz2y
+     
+[non-environmentally friendly protocols have been removed]
 </pre>
